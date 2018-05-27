@@ -1,0 +1,5 @@
+argv[0] == name of program : option : i
+option : lr
+arguments 3 : hi there
+option : f
+arguments 5 : guhwan.c
