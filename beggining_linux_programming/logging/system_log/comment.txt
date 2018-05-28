@@ -1,0 +1,3 @@
+종류를 사용자가 필요에 따라 설정하여 각각 다른 곳에 system log를 남길 수 있다.
+
+참고 페이지 : http://system-monitoring.readthedocs.io/en/latest/log.html
