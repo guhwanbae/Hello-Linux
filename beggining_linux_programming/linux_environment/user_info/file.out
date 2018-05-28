@@ -1,0 +1,6 @@
+User is guhwanbae
+User : uid = 1000, gid = 1000
+UID passwd entry:
+name = guhwanbae, uid = 1000, gid = 1000, home = /home/guhwanbae, shell = /bin/bash
+root passwd entry:
+name = root, uid = 0, gid = 0, home = /root, shell = /bin/bash
