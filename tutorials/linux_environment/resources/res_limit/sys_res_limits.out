@@ -1,0 +1,13 @@
+# 간단히 Stack size와 virtual memory limit을 살펴보자.
+# 실행된 프로그램에 기본으로 할당된 Stack size는 8388608 Bytes, 즉 8MB이다.
+# Virtual memory는 현재 64 bit machine이 가질 수 있는 이론적인 최대값을 한계로 두고 있다.
+# Virtual memory의 soft limit은 2^64 Bytes = 16 exibytes이다. 
+
+The maximum size of core file(core dump size) : soft = 0, hard = 18446744073709551615
+The amount of CPU time that the process can consume : soft = 18446744073709551615, hard = 18446744073709551615
+The maximum size of the process's data segment(initialized data, uninitialized data, and heap) : soft = 18446744073709551615, hard = 18446744073709551615
+The maximum size in bytes of files that process may create : soft = 18446744073709551615, hard = 18446744073709551615
+The maximum file descriptor number that can be opened by this process : soft = 1024, hard = 4096
+The maximum size of the process stack : soft = 8388608, hard = 18446744073709551615
+The maximum size of the process's virtual memory(address space) : soft = 18446744073709551615, hard = 18446744073709551615
+A limits on the combined number of locks : soft = 18446744073709551615, hard = 18446744073709551615
